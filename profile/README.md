@@ -19,7 +19,8 @@ Here’s a list of our currently available repositories, grouped by category:
 ### **Setup and Environment**
 - [Setup-CMSSW](https://github.com/How-to-CMS/Setup-CMSSW): How to set up the CMS Software (CMSSW) framework.
 - [Login-to-LXPLUS](https://github.com/How-to-CMS/Login-to-LXPLUS): How to log in and work with LXPLUS, the CERN computing cluster.
-- [Setup-GitHub](https://github.com/How-to-CMS/Setup-GitHub): How to configure and use GitHub for CMS-related workflows.
+- [Setup-GitHub](https://github.com/How-to-CMS/Setup-GitHub): How to configure GitHub for CMS-related workflows.
+- [Use-GitHub](https://github.com/How-to-CMS/Use-GitHub): How to use GitHub for CMS-related workflows.
 
 ### **Linux and Command Line Tools**
 - [Use-Linux](https://github.com/How-to-CMS/Use-Linux): How to navigate and use the Linux operating system effectively.
