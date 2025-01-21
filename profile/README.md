@@ -41,6 +41,6 @@ We welcome contributions from the community! If you have an idea for a new guide
 ## Stay Connected
 - **CMS Documentation**: [CMS official documentation](https://cms.cern)
 - **GitHub Help**: [GitHub documentation](https://docs.github.com/)
-- **Contact US**:[Email](mailto:nikolaos.plastiras@cern.ch)
+- **Contact US**:[Email ](mailto:nikolaos.plastiras@cern.ch)
 
 Feel free to explore the repositories and suggest topics you'd like to see covered. Together, we can make CMS workflows more accessible for everyone!
